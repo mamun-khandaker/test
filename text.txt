@@ -1,1 +1,3 @@
 This is a text file. It's used here on the dev branch.
+
+The issue is resolved
