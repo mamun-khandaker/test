@@ -3,11 +3,3 @@ This is a text file. It's used here on the dev branch.
 The issue is resolved and it's clean now.
 
 
-Some changes in Master
-
-There are new changes from the master.
-
-New changed in Dev.
-
-Some new changes in Dev again.
-
