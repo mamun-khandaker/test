@@ -1,5 +1,7 @@
 This is a text file. It's used here on the dev branch.
 
-The issue is resolved and it's clean now.
+From master this will change
+
+And this will also change
 
 
