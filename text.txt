@@ -1,7 +1,11 @@
 This is a text file. It's used here on the dev branch.
 
+
 From master this will change
 
 And this will also change
+
+For some conflicts this text.
+
 
 
