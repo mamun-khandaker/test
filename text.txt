@@ -2,4 +2,12 @@ This is a text file. It's used here on the dev branch.
 
 This is to fetch and see how does it work.
 
+
 New changes in the master branch
+
+Some other changes in the master branch
+
+New changes in the dev branch
+
+New changes in the master branch
+
