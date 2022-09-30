@@ -11,4 +11,6 @@ New changes in the dev branch
 
 New changes in the master branch
 
+This will give a merge conflict...
+
 This is for undoing a merge...
